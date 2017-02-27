@@ -1,6 +1,6 @@
 #### Tutorial: Writing an NPM Package
 
-In this tut
+In this tutorial, we'll learn how to write an
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/writing-an-npm-package)  
 
