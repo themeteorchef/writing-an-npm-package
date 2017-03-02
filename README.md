@@ -1,6 +1,6 @@
 #### Tutorial: Writing an NPM Package
 
-In this tutorial, we'll learn how to write and publish a package on NPM. We'll use the Pinboard API as our use case, writing a package that gives us a wrapper around their
+In this tutorial, we'll learn how to write and publish a package on NPM. We'll use the Pinboard API as our use case, writing a package that gives us a wrapper around their /bookmarks/all endpoint to return us an array of our
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/writing-an-npm-package)  
 
